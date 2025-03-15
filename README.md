@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ridwan
-- 👀 I’m interested in building re
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in building responsive and interactive Web Applications
+- 🌱 I’m currently learning CSS and JavaScript
 - 💞️ I’m looking to collaborate on project that can add to my knowledge on JavaScript
 - 📫 You can reach me on X @eleniyancode, or email abdulrahamanr657@gmail.com
 
